@@ -1,0 +1,27 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "An cli RPG game with Jest framework",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjamind10/jest-another-rpg.git"
+  },
+  "keywords": [
+    "rpg",
+    "game"
+  ],
+  "author": "benjamind10",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benjamind10/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/benjamind10/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
