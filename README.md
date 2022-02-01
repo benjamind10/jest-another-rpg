@@ -5,8 +5,6 @@
 - [ Description ](#about)
 - [ Installation ](#installation)
 - [ Usage ](#usage)
-- [ License ](#license)
-
 - [ Questions ](#questions)
 
 <a name="about"></a>
